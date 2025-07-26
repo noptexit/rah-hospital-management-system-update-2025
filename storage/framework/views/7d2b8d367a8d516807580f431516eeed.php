@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/html/resources/views/vendor/livewire-tables/stubs/custom.blade.php ENDPATH**/ ?>

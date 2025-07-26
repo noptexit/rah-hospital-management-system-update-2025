@@ -1,0 +1,2 @@
+<a href="<?php echo e(route('hospital.create')); ?>" class="btn btn-primary"><?php echo e(__('messages.hospitals_list.add_new_hospital')); ?></a>
+<?php /**PATH /home/sadhin/Documents/hms-hosptalcare/resources/views/super_admin/users/add-button.blade.php ENDPATH**/ ?>

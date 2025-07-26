@@ -1,0 +1,1 @@
+<?php /**PATH /home/sadhin/Documents/hms-hosptalcare/resources/views/vendor/livewire-tables/stubs/custom.blade.php ENDPATH**/ ?>

@@ -1,0 +1,11 @@
+<div class="d-flex ustify-content-center ">
+    <a href="<?php echo e(route('hospital.edit',$row->id)); ?>" title="<?php echo __('messages.common.edit') ?>"
+        class="btn px-2 text-primary fs-3 ps-0 py-2">
+         <i class="fa-solid fa-pen-to-square"></i>
+     </a>
+     <a href="javascript:void(0)" title="<?php echo __('messages.common.delete') ?>" data-id="<?php echo e($row->id); ?>"
+        class="btn super-user-delete-btn px-2 text-danger fs-3 py-2">
+         <i class="fa-solid fa-trash"></i>
+     </a>
+</div>
+<?php /**PATH /home/sadhin/Documents/hms-hosptalcare/resources/views/super_admin/users/columns/action.blade.php ENDPATH**/ ?>
